@@ -13,10 +13,8 @@ plugins:
 
 # Console theme settings
 header_pages:
-  - index.md
-  - peter.md
-  - about.md
-  - contact.md
+  - index.markdown
+  - about.markdown
 style: dark
 footer: ''
 
