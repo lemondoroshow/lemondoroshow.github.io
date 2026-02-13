@@ -1,6 +1,7 @@
 ---
+title: home
 layout: home
+permalink: /
 ---
-# Test - index
-## I am testing the index
-of the home page.
+
+# Lemon Doroshow
