@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 # Test - index
 ## I am testing the index
