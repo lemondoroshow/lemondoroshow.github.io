@@ -1,7 +1,5 @@
 ---
-title: home
-layout: home
-permalink: /
+layout: default
 ---
 
 # Lemon Doroshow

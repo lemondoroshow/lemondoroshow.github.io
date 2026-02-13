@@ -5,19 +5,13 @@ baseurl: "/"
 url: "https://lemondoroshow.github.io/"
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-seo-tag
 
-# Console theme settings
-header_pages:
-  - index.markdown
-  - about.markdown
-style: dark
-footer: ''
+# Theme settings
+logo: /assets/img/logo.png
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console

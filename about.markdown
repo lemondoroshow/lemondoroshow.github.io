@@ -1,5 +1,3 @@
 ---
-title: about
-layout: page
-permalink: /about
+layout: default
 ---
