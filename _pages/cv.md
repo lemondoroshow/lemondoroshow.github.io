@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Applied Mathematics and Statistics, Earth and Planetary Sciences, Johns Hopkins University, 2028 (*expected*)
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2025 -- Present: Undergraduate Researcher
+  * Haine Group, Johns Hopkins University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2025 -- August 2025: DEVELOP Intern
+  * National Aeronautics and Space Administration
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2024 -- June 2025: Undergraduate Researcher
+  * Shields Group, Johns Hopkins University
 
 Publications
 ======
@@ -61,4 +44,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* January 2026 -- Present: Volunteer
+  * Baltimore Animal Rescue and Care Shelter
